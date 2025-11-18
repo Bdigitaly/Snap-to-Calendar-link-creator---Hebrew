@@ -1,0 +1,7 @@
+{
+  "name": "Snap to Calendar link creator - Hebrew",
+  "description": "העלו תמונה או צילום מסך וקבלו \"קישור קסם\" להוספה ישירות לאירוע ביומן גוגל  📅✨\nUpload a screenshot or photo of an event flyer, and instantly convert it into a Google Calendar event link.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
